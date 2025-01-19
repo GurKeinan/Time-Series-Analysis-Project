@@ -1,6 +1,5 @@
-# Project Title
+# Using Time Series Analysis to Predict Apple Stock Prices
 
-Using Time Series Analysis to Predict Apple Stock Prices
 
 ## Description
 
